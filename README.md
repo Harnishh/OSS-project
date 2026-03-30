@@ -2,7 +2,7 @@
 
 ## Student Details
 Name: Harnish Sankhla
-Open Source Software Course
+Reg No: 24BAI10501
 
 ## Chosen Software
 Python
